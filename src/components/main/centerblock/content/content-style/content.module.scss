@@ -1,0 +1,13 @@
+._title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 24px;
+  }
+
+._playlist {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+  }

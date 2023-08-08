@@ -1,0 +1,22 @@
+._search {
+  width: 100%;
+  border-bottom: 1px solid #4e4e4e;
+  margin-bottom: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+._filter {
+  width: -moz-fit-content;
+  width: fit-content;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 51px;
+}
+
+._content {
+  display: flex;
+  flex-direction: column;
+}/*# sourceMappingURL=centerblock.module.css.map */

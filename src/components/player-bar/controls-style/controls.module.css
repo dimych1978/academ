@@ -1,0 +1,74 @@
+._controls {
+  display: flex;
+  flex-direction: row;
+  padding: 0 27px 0 31px;
+}
+
+._btn-prev,
+._btn-play,
+._btn-next,
+._btn-repeat,
+._btn-shuffle {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+._btn-prev {
+  margin-right: 23px;
+}
+
+._btn-prev-svg {
+  width: 15px;
+  height: 14px;
+}
+
+._btn-play {
+  margin-right: 23px;
+}
+
+._btn-play-svg {
+  width: 22px;
+  height: 20px;
+  fill: #d9d9d9;
+}
+
+._btn-next {
+  margin-right: 28px;
+  fill: #a53939;
+}
+
+._btn-next-svg {
+  width: 15px;
+  height: 14px;
+  fill: inherit;
+  stroke: #d9d9d9;
+}
+
+._btn-repeat {
+  margin-right: 24px;
+}
+
+._btn-repeat-svg {
+  width: 18px;
+  height: 12px;
+  fill: transparent;
+  stroke: #696969;
+}
+
+._btn-shuffle {
+  display: flex;
+  align-items: center;
+}
+
+._btn-shuffle-svg {
+  width: 19px;
+  height: 12px;
+  fill: transparent;
+  stroke: #696969;
+}
+
+._track-play {
+  display: flex;
+  flex-direction: row;
+}/*# sourceMappingURL=controls.module.css.map */

@@ -1,0 +1,53 @@
+._personal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 12px 0 15px 0;
+}
+
+._personal-name {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 16px;
+}
+
+._avatar {
+  width: 43px;
+  height: 43px;
+  background-color: #313131;
+  border-radius: 50%;
+}
+
+._block {
+  height: 100%;
+  padding: 240px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+._list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+._item {
+  width: 250px;
+  height: 150px;
+  margin-bottom: 30px;
+}
+
+._link {
+  width: 100%;
+  height: 100%;
+}
+
+._img {
+  width: 100%;
+  height: auto;
+}

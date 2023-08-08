@@ -1,0 +1,26 @@
+._content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+._image {
+  width: 13px;
+  height: 18px;
+  margin-right: 17px;
+}
+
+._svg {
+  width: 13px;
+  height: 18px;
+  fill: transparent;
+}
+
+._progress {
+  width: 109px;
+}
+
+._progress-line {
+  width: 109px;
+}
